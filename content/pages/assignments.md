@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the final paper assignment for
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 33f73271-cb7d-7d6f-276d-371fc772349d
 ---

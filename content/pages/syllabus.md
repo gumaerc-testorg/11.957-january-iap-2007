@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9baed488-cd9e-3dcc-556b-e33d51a766b6
 ---

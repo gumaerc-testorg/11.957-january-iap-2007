@@ -6,6 +6,7 @@ file: /courses/11-957-frameworks-of-urban-governance-january-iap-2007/bd3862e815
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Paper
 uid: bd3862e8-157a-a3c4-1426-b5d95d6ed2e1
 ---
 Instructions for a final paper recommending actions to help with an urban problem.
-

@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for a final paper recommending actions to help with an urban
   problem.
-file: /ol-ocw-studio-app/courses/11-957-frameworks-of-urban-governance-january-iap-2007/bd3862e8157aa3c41426b5d95d6ed2e1_finalpaper.pdf
+file: /courses/11-957-frameworks-of-urban-governance-january-iap-2007/bd3862e8157aa3c41426b5d95d6ed2e1_finalpaper.pdf
 file_size: 9944
 file_type: application/pdf
 learning_resource_types:
